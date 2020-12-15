@@ -1,4 +1,3 @@
-# Cacti (tm) Documentation
 # Cacti (tm) 文档
 
 ![Cacti](images/logo.png)
