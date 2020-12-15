@@ -1,6 +1,10 @@
 # Aggregate Templates
 
+# 聚合模板
+
 This section will describe **Aggregate Templates** in Cacti.
+
+这个章节将描述cacti的 **聚合模板**。
 
 ![Aggregate Templates](images/aggregate-templates.png)
 
