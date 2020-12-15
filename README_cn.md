@@ -1,14 +1,13 @@
 # Cacti (tm) Documentation
+# Cacti (tm) 文档
 
 ![Cacti](images/logo.png)
 
-Cacti is designed to be a complete graphing solution based on the RRDTool's
-framework. Its goal is to make a network administrator's job easier by taking
-care of all the necessary details necessary to create meaningful graphs.
+Cacti是一个基于RRDTool框架设计的完整的图形化解决方案。Cacti的目标是对网络中所有的细节，通过创建直观的图形让网络管理员的工作变的更容易。
 
-Please see the official Cacti website for information, support, and updates.
+更多信息、支持和更新请参阅Cacti官方网站。
 
-## Developers
+## 开发者
 
 - Ian Berry (raX)
 
@@ -26,7 +25,7 @@ Please see the official Cacti website for information, support, and updates.
 
 - Mark Brugnoli-Vinten (netniV)
 
-## Thanks
+## 致谢
 
 A very special thanks to Tobi Oetiker, the creator of RRDTool and the very
 popular MRTG. The users of Cacti - especially anyone who has taken the time to
@@ -44,7 +43,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT
 ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
 FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
-## Table of Contents
+## 目录
 
 1. [Cacti Installation](README.md#cacti-installation)
 
